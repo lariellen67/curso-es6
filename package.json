@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/lariellen67/curso-es6.git",
   "author": "Larissa <lariellen67@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.6.4",
+    "@babel/preset-env": "^7.6.3"
+  }
 }
