@@ -1,0 +1,3 @@
+{ // criação de um objeto
+    "presets": ["@babel/preset-env"] //converte as funcionalidades do código, entendo o tipo de ambiente que está sendo trabalhado
+}
